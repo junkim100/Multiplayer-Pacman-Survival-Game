@@ -14,3 +14,7 @@ You can eat the dots to gain points.
 If you eat 10 points, you will be a super pacman. 
 
 If you became a super pacman, eat the other player to win!
+
+The include folder has the .h files and the src folder has the .cpp files
+
+https://youtu.be/gOe-Cm3xPao
